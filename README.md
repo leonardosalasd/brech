@@ -1,11 +1,11 @@
 <div align="center">
-
-# <img src="./assets/logo.svg" alt="Logo" width="36" align="center" /> **brech**
-
-Py CLI for inspecting email exposures and public digital identities
-
-[**Leonardo Salas**](https://github.com/leonardosalasd) · [leonardo.salas01@outlook.com](mailto:leonardo.salas01@outlook.com)
-
+  <img src="./assets/logo.svg" alt="brech logo" width="80" />
+  <h1 style="margin-top: 8px; margin-bottom: 8px;">brech</h1>
+  <p>Py CLI for inspecting email exposures and public digital identities</p>
+  <p>
+    <a href="https://github.com/leonardosalasd">Leonardo Salas</a> · 
+    <a href="mailto:leonardo.salas01@outlook.com">leonardo.salas01@outlook.com</a>
+  </p>
 </div>
 
 ---
