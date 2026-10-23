@@ -6,7 +6,7 @@
 
 Py CLI for inspecting email exposures and public digital identities
 
-[**Leonardo Salas**](mailto:leonardo.salas01@outlook.com) · [rwl.leonardosalas.dev](https://rwl.leonardosalas.dev)
+[**Leonardo Salas**](mailto:leonardo.salas01@outlook.com)
 
 </div>
 
